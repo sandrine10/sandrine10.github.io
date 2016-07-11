@@ -1,0 +1,71 @@
+.screenshot {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #A347FF;
+    padding: 20px 10px;
+  font-family: Helvetica;
+  max-width: 2000px;
+  margin: 0 auto;
+  font-size: 1.4em;
+
+}
+.concept {
+  background-color: #E0CCFF;
+  padding: 4px;
+  margin: 10px;
+  border-radius: 5px;
+  color: black;
+    font-family: Helvetica;
+}
+.concept-tile {
+  margin: 6px;
+}
+.concept-description {
+  font-weight: lighter;
+}
+.code {
+  font-family: courier;
+}
+h1 {
+    text-align: center;
+    color: white;
+  background-color: #751AFF;
+
+  }
+
+p {
+    margin: 10px 0;
+}
+html { padding: 10px;
+  margin: 10px;
+background-color: white;
+  border-radius: 20px;
+ }
+h2 {
+  color: white;
+  margin: 10px;
+  padding: 10px;
+  background-color: #751AFF;
+  border-radius: 20px;
+
+
+}
+h3{
+  color: #A347FF;
+  text-align: center;
+
+}
+.italic{
+  font-style: italic;
+}
+.bold{
+  font-weight: bold;
+}
